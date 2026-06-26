@@ -1,0 +1,21 @@
+.header {
+  background-color:whitesmoke;
+  padding: 2rem 1.5rem;
+  color: black;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.title {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.description {
+  margin: 0.75rem 0 0;
+  line-height: 1.6;
+  color: black;
+}

@@ -1,0 +1,11 @@
+.footer {
+  background-color: whitesmoke;
+  color: black;
+  text-align: center;
+  padding: 1rem 2rem;
+}
+
+.footerText {
+  font-size: 0.9rem;
+  margin: 0;
+}

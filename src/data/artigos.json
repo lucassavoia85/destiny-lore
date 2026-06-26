@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "slug": "o-viajante-e-a-idade-de-ouro",
+    "titulo": "O Viajante e a Era Dourada",
+    "descricao": "A história do Viajante, a entidade que trouxe a humanidade para a Era Dourada antes da Colapso.",
+    "conteudo": "O Viajante é uma entidade misteriosa em forma de esfera que chegou ao Sistema Solar e transformou a humanidade. Ele iniciou a Era Dourada, período em que a civilização humana expandiu-se por vários planetas, como Marte e Vênus, graças à terraformação e avanços tecnológicos. Nesse período, a humanidade prosperou até a chegada da escuridão conhecida como o Colapso, evento que destruiu grande parte da civilização e marcou o início da queda da humanidade. O Viajante permaneceu acima da Última Cidade, em estado de dormência, enquanto as forças da Luz e da Treva continuavam seu conflito pelo universo.",
+    "autor": "Bungie Lore / Compilação",
+    "imagem": "/images/o-viajante.webp",
+    "ordem": 1,
+    "data": "2026-06-25"
+  },
+  {
+    "id": 2,
+    "slug": "o-colapso-e-a-queda-da-humanidade",
+    "titulo": "O Colapso e a Queda da Humanidade",
+    "descricao": "O evento que marcou o fim da Era Dourada e quase extinguiu toda a humanidade.",
+    "conteudo": "O Colapso foi um evento catastrófico causado pela chegada das forças da Treva no Sistema Solar. Durante esse período, colônias humanas foram destruídas, planetas perderam comunicação e a civilização entrou em colapso total. O Viajante, em seu último ato antes de ficar inativo, expulsou parcialmente a Treva, mas isso teve um custo devastador. A humanidade foi reduzida a poucos sobreviventes que se refugiaram na Última Cidade na Terra. Esse evento deu origem à era dos Guardiões e à luta constante entre Luz e Treva.",
+    "autor": "Bungie Lore / Compilação",
+    "imagem": "/images/colapso.png",
+    "ordem": 2,
+    "data": "2026-06-25"
+  },
+  {
+    "id": 3,
+    "slug": "os-guardioes-e-as-ghosts",
+    "titulo": "Os Guardiões e os Ghosts",
+    "descricao": "Como os Guardiões foram escolhidos para proteger a Última Cidade com o poder da Luz.",
+    "conteudo": "Após o Colapso, o Viajante criou pequenas inteligências chamadas Ghosts. Esses seres percorrem o sistema solar em busca de corpos de humanos mortos que possuam uma conexão com a Luz. Quando encontrados, esses indivíduos são revividos como Guardiões, seres imortais capazes de usar poderes elementais como Arc, Solar e Vácuo. Os Guardiões defendem a Última Cidade contra ameaças como os Caídos, a Colmeia e os Vex, enquanto também buscam respostas sobre o Viajante e a natureza da Luz e da Treva.",
+    "autor": "Bungie Lore / Compilação",
+    "imagem": "/images/guardioes.webp",
+    "ordem": 3,
+    "data": "2026-06-25"
+  },
+  {
+    "id": 4,
+    "slug": "luz-vs-treva",
+    "titulo": "Luz vs Treva: O Conflito Cósmico",
+    "descricao": "A eterna guerra entre duas forças fundamentais do universo de Destiny.",
+    "conteudo": "A Luz e a Treva não são apenas forças físicas, mas princípios cósmicos que representam filosofias opostas sobre a vida e a existência. A Luz promove crescimento, diversidade e evolução, enquanto a Treva representa a sobrevivência através da eliminação do fraco. Esse conflito molda toda a história do universo de Destiny, influenciando civilizações, raças e até mesmo os Guardiões. O verdadeiro propósito dessas forças ainda é um dos maiores mistérios do jogo.",
+    "autor": "Bungie Lore / Compilação",
+    "imagem": "/images/luz-treva.webp",
+    "ordem": 4,
+    "data": "2026-06-25"
+  },
+  {
+    "id": 5,
+    "slug": "as-racas-do-sistema-solar",
+    "titulo": "As Raças do Sistema Solar",
+    "descricao": "Conheça os principais inimigos e aliados da humanidade em Destiny.",
+    "conteudo": "O sistema solar é habitado por várias raças. Os Eliksni são uma raça de saqueadores que perderam sua própria Era Dourada e agora lutam pela sobrevivência. A Colmeia é uma espécie fanática que serve aos Deuses do Verme e busca expandir o poder da Treva. Os Vex são máquinas capazes de simular e reescrever realidades inteiras. Já os Cabais são um império militar altamente disciplinado. Cada uma dessas raças possui sua própria história e motivações dentro do conflito maior entre Luz e Treva.",
+    "autor": "Bungie Lore / Compilação",
+    "imagem": "/images/racas.webp",
+    "ordem": 5,
+    "data": "2026-06-25"
+  }
+]
