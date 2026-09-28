@@ -9,6 +9,7 @@ type Props = {
 
 const CardArtigo = ({ artigo }: Props) => {
   const { titulo, descricao, imagem } = artigo;
+
   return (
     <div className={styles.card}>
       <h1 className={styles.title}>{titulo}</h1>

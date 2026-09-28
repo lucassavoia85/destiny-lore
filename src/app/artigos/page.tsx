@@ -1,0 +1,17 @@
+import { Artigo } from "@/types/artigo";
+import CardArtigo from "@/app/components/Card";
+import artigosJson from "@/data/artigos.json";
+
+const artigos: Artigo[] = artigosJson;
+
+export default async function ArtigosPage() {
+  const artigos_ordenados = [...artigos].sort((a, b) => a.ordem - b.ordem);
+
+  return (
+    <section>
+      {artigos_ordenados.map((artigo) => (
+        <CardArtigo key={artigo.slug} artigo={artigo} />
+      ))}
+    </section>
+  );
+}

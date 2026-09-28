@@ -7,15 +7,15 @@ import artigosJson from "@/data/artigos.json";
 
 
 type Props = {
-  params: Promise<{
+  params: {
     slug: string;
-  }>;
+  };
 };
 
 const artigos: Artigo[] = artigosJson;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { slug } = await params;
+  const { slug } = params;
   const artigo = artigos.find((item) => item.slug === slug);
 
   if (!artigo) {
